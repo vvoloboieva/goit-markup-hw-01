@@ -1,2 +1,2 @@
-# goit-markup-hw-01
- First homework - simple html page
+# goit-markup-hw-02
+ First homework - simple html page with CSS
